@@ -1,3 +1,6 @@
+
+
+/*
 //CONDICIONALES
 var genero = 'masculino';
 
@@ -21,6 +24,7 @@ var compara3 = 6 < 5;
 var compara4 = 6 <= 6;
 var compara5 = 6 === 5 || 6 === 6;
 var compara6 = 5 > 2 && 6 === 5;
+*/
 
 
 
